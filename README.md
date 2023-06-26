@@ -1,5 +1,3 @@
-# PlayStore-App-Review-Analysis
-
 # Exploratory Data Analysis - Play Store App Review Analysis
 Project Type - EDA
 Contribution - Individual
