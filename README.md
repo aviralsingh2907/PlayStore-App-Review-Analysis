@@ -12,16 +12,16 @@ The dataset contains two dataframes, namely Play Store Data & User Reviews.
 
 Following aprroach was taken for this project:
 
-# Step 1: Data Import & Cleaning:
+## Step 1: Data Import & Cleaning:
 Importing necessary libraries, mounting drive, importing datasets & storing data in variables.
 Removal of Null values and wrong data entries.
 Removal of duplicate values.
 
-# Step 2: Data Preparation:
+## Step 2: Data Preparation:
 Dealing with presence of unnecessary details added in data. Removal of string characters, changing data types as needed.
 Removal of unnecessary columns from the dataset.
 
-# Step 3: Data Analysis & Visualization:
+## Step 3: Data Analysis & Visualization:
 Analysis of data with respect to different parameters such as Rating, Reviews, Price, Sentiment etc.
 Visualization of the analysed data.
 
